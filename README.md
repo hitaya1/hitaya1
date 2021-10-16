@@ -1,2 +1,1 @@
-# its_me
-About Me
+Hiiii everyone! And welcome to my github page
