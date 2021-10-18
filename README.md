@@ -16,15 +16,17 @@
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/taissiya-ugay)
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/>](https://medium.com/@taya.ugay)
 
-Some of the projects I am proud of:
+<br>
+
+## Some of the projects I am proud of:
 * [PokeWar](https://github.com/bell-peppers/PokeWar)
 > A pokemon inspired online multiplayer game 
 
 * [CATSCO](https://github.com/hitaya1/graceshopper-project)
 > A fullstack eCommerce website
+<br>
 
-
-### **My Tech Stack:** 
+## **My Tech Stack:** 
 
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/> <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
 
