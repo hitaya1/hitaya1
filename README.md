@@ -5,7 +5,7 @@
 * :seedling: I’m studying Data Structures and Algorithms
 * :alien: I’m looking for study buddies and accountability buddies
 * :cloud: Pronouns: she/her
-* :sparkles: Fun fact: I love to play video games 
+* :sparkles: Random fact: I believed in Santa's existence till I was 11 (my parents put lots of effort into it, and also I had a great imagination and truly believed that I saw him flying around in his sleigh with reindeer)
 
 <!-- My portfolio :moon::
 
