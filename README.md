@@ -7,10 +7,10 @@
 * :cloud: Pronouns: she/her
 * :sparkles: Random fact: I believed in Santa's existence till I was 11 (my parents put lots of effort into it, and also I had a great imagination and truly believed that I saw him flying around in his sleigh with reindeer)
 
-<!-- My portfolio :moon::
+My portfolio :moon::
 
-[<img src="https://github.com/hitaya1/hitaya1/blob/main/portfolio.png?raw=true" width='280px'/>](https://hitaya1.github.io/about/)
- -->
+[<img src="https://github.com/hitaya1/hitaya1/blob/main/portfolio.png?raw=true" width='280px'/>](https://www.tayaugay.com/)
+
 #### Connect with me :two_hearts::
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/taissiya-ugay)
