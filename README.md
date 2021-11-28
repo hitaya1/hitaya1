@@ -1,37 +1,26 @@
-### Hiiii there! And welcome to my github page!:)
+### hiiiiiii there! ...and welcome to my github page!:)
 
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width='35px'/>](https://www.linkedin.com/in/taissiya-ugay)
+[<img src="https://img.icons8.com/ios-filled/48/000000/medium-logo.png" width='35px'/>](https://medium.com/@taya.ugay)
 
+my name is [Taya](https://www.tayaugay.com/), and i am a fullstack software engineer with a background in chemical engineering. coding feels like playing a video game to me, it's challenging and rewarding which i like.      
+currently i'm working as a teaching fellow at fullstack academy <3, studying data structures and algorithms & enjoying my life
 
-* :seedling: I’m studying Data Structures and Algorithms
-* :alien: I’m looking for study buddies and accountability buddies
-* :cloud: Pronouns: she/her
-* :sparkles: Random fact: I believed in Santa's existence till I was 11 (my parents put lots of effort into it, and also I had a great imagination and truly believed that I saw him flying around in his sleigh with reindeer)
+<img src="https://media3.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="420px">
 
-My portfolio :moon::
-
-[<img src="https://github.com/hitaya1/hitaya1/blob/main/portfolio.png?raw=true" width='280px'/>](https://www.tayaugay.com/)
-
-#### Connect with me :two_hearts::
-
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/taissiya-ugay)
-[<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/>](https://medium.com/@taya.ugay)
-
-<br>
-
-## Some of the projects I am proud of:
-* [PokeWar](https://github.com/bell-peppers/PokeWar)
-> A pokemon inspired online multiplayer game 
-
+#### My favorite project is [PokeWar](https://github.com/bell-peppers/PokeWar) - a pokemon inspired online multiplayer game 
+<!-- 
 * [CATSCO](https://github.com/hitaya1/graceshopper-project)
-> A fullstack eCommerce website
-<br>
+ -- A fullstack eCommerce website -->
 
-## **My Tech Stack:** 
 
-<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/> <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
+#### **My Tech Stack:** 
 
-<img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'/>  <img src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'/> <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
-
-<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'/> <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/> <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/> <img src='https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white'/> <img src='https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black'/> 
+ <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+ <img src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
+ <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+ <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 
